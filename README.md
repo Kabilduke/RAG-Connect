@@ -11,3 +11,8 @@ Tokenizer - google-bert/bert-base-uncased
 
 ### Vector Database:
 Langchain - FAISS
+
+
+References:
+Embeddings: https://vickiboykis.com/what_are_embeddings/
+YouTube: @Daniel Bourke
