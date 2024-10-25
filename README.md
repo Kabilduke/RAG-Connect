@@ -13,6 +13,6 @@ Tokenizer - google-bert/bert-base-uncased
 Langchain - FAISS
 
 
-References:
+#### References:
 Embeddings: https://vickiboykis.com/what_are_embeddings/ \
 YouTube: @Daniel Bourke
