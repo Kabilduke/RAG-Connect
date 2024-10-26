@@ -5,9 +5,14 @@ The objective of this research is to explore the use of Retrieval-Augmented Gene
 Book - Encyclopedia of Foods: A Guide to Healthy Nutrition
 
 ### Models:
-Embedding model 1 - all-MiniLM-L6-v2 \
-Embedding model 2 - stella-base-en-v2 
-
+| Embedding Models | all-MiniLM-L6-v2 | stella-base-en-v2 |
+|----------|----------|----------|
+| Size | 0.08GB | 0.2GB |
+| Embedding Dimension | 384 | 768 |
+| Parameter | 22.7M | 55M|
+| Max Tokens | 512 | 512 |
+| Language | English | English |
+| Accuracy | 73% | 85% |
 
 Transformer - bert-base-uncased \
 Tokenizer - bert-base-uncased 
