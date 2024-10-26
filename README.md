@@ -6,7 +6,7 @@ Book - Encyclopedia of Foods: A Guide to Healthy Nutrition
 
 ### Models:
 Embedding model 1 - sentence-transformers/all-MiniLM-L6-v2 \
-Embedding model 2 - https://huggingface.co/infgrad/stella-base-en-v2 \
+Embedding model 2 - https://huggingface.co/infgrad/stella-base-en-v2 
 
 
 Transformer - google-bert/bert-base-uncased \
