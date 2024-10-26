@@ -29,4 +29,4 @@ Langchain - FAISS
 -----------------------------------------------------------------
 #### References:
 Embedding models: https://huggingface.co/spaces/mteb/leaderboard \
-Embeddings: https://vickiboykis.com/what_are_embeddings/ \
+Embeddings: https://vickiboykis.com/what_are_embeddings/ 
