@@ -12,7 +12,7 @@ Book - Encyclopedia of Foods: A Guide to Healthy Nutrition
 | Parameter | 22.7M | 55M|
 | Max Tokens | 512 | 512 |
 | Language | English | English |
-| Accuracy | 73% | 85% |
+| Retrieval Accuracy | 73% | 85% |
 
 Transformer - bert-base-uncased \
 Tokenizer - bert-base-uncased 
