@@ -14,6 +14,8 @@ Book - Encyclopedia of Foods: A Guide to Healthy Nutrition
 | Language | English | English |
 | Retrieval Accuracy | 73% | 85% |
 
+Embedding model with higher embedding dimension has high retrieval accuracy.
+
 Transformer - bert-base-uncased \
 Tokenizer - bert-base-uncased 
 
