@@ -20,6 +20,13 @@ Embedding model with higher embedding dimension has high retrieval accuracy.
 Transformer - bert-base-uncased \
 Tokenizer - bert-base-uncased 
 
+### Computating Power
+| Apple Silcon | M1 |
+|--------------|----|
+| TFLOPS | 2.60 |
+
+
+
 ### Vector Database:
 Langchain - FAISS
 
