@@ -24,7 +24,7 @@ Tokenizer - bert-base-uncased
 Langchain - FAISS
 
 ### Computating Power
-| Apple Silcon | M1 |
+| Apple Silicon | M1 |
 |--------------|----|
 | TFLOPS | 2.60 |
 
