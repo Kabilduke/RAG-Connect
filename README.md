@@ -23,7 +23,7 @@ Tokenizer - bert-base-uncased
 ### Vector Database:
 Langchain - FAISS
 
-### Computating Power
+### Computing Power
 | Apple Silicon | M1 |
 |--------------|----|
 | TFLOPS | 2.60 |
