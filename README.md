@@ -19,7 +19,7 @@ Embedding model with higher embedding dimension has high retrieval accuracy.
 
 | Chat Models | Google/T5-Base |
 |-------------|----------------|
-| Size | 1GB |
+| Size | 0.9GB |
 | Parameter | 223M |
 | Year | 2020 |
 
