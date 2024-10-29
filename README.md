@@ -17,8 +17,12 @@ Book - Encyclopedia of Foods: A Guide to Healthy Nutrition
 
 Embedding model with higher embedding dimension has high retrieval accuracy.
 
-Transformer - bert-base-uncased \
-Tokenizer - bert-base-uncased 
+| Chat Models | Google/T5-Base |
+|-------------|----------------|
+| Size | 1GB |
+| Parameter | 223M |
+| Year | 2020 |
+
 
 ### Vector Database:
 Langchain - FAISS
