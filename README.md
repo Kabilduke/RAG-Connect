@@ -1,4 +1,4 @@
-# <center>Retrieval Augmented Generation</center>
+# ![Retrieval Augmented Generation](https://github.com/Kabilduke/RAG-Connect/blob/main/Retrieval%20Augmented%20Generation.ipynb)
 
 The objective of this research is to explore the use of Retrieval-Augmented Generation (RAG) in creating a personal chat-bot powered by pretrained large language models (LLMs). By utilizing Langchain as a vector database for efficient data retrieval, this study aims to demonstrate the practicality of open-source LLMs for personal, privacy-preserving use. The research will focus on minimizing computational resources, enabling users to interact with their personal data securely on their local devices.
 
