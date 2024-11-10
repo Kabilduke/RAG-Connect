@@ -1,2 +1,3 @@
 pip install tensorflow==2.16.2
+pip install typing-extensions==4.10.0
 pip install tf-keras==2.16.0rc2
